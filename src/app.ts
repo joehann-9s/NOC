@@ -11,6 +11,9 @@ async function main(){
         mongoUrl: envs.MONGO_URL,
         dbName: envs.MONGO_DB_NAME,
     })
+
+
+    
     Server.start();
     //console.log( envs.PORT );
 }1  

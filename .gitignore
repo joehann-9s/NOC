@@ -1,6 +1,7 @@
 node_modules/
 dist/
 mongo/
+postgres/
 .DS_Store
 
 
